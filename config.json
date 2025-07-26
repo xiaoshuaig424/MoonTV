@@ -32,9 +32,9 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "iqiyi": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源"
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -85,25 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "wlzy":{
-      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-      "name":"卧龙资源"
-    },
     "bdyzy":{
       "api":"https://api.apibdzy.com/api.php/provide/vod/",
       "name":"百度云资源"
-    },
-    "js":{
-      "api":"https://jszyapi.com/api.php/provide/vod/at/json",
-      "name":"极速"
-    },
-    "bfzy":{
-      "api":"https://bfzyapi.com/api.php/provide/vod/",
-      "name":"暴风资源"
-    },
-    "jszy":{
-      "api":"https://jszyapi.com/api.php/provide/vod/",
-      "name":"极速资源"
     },
     "tpzy":{
       "api":"https://taopianapi.com/cjapi/mc10/vod/json.html",
@@ -132,10 +116,6 @@
     "mdzy":{
       "api":"https://www.moduzy.com/api.php/provide/vod/",
       "name":"魔都资源"
-    },
-    "zdzy":{
-      "api":"https://api.zuidapi.com/api.php/provide/vod/",
-      "name":"最大资源"
     },
     "hhzy":{
       "api":"https://hhzyapi.com/api.php/provide/vod/",
